@@ -5,7 +5,7 @@
 <h4> <img src="https://user-images.githubusercontent.com/111877511/205275260-a081a14a-60e7-4c21-b92c-e98e26dd76b4.png" height=100/>
 <h4> Social networks 📩 </h4>
 <span style="margin-right:5px; padding:5px;>
-<a href="www.linkedin.com/in/anastasiia-tkachuk-285620252"><img src="https://user-images.githubusercontent.com/111877511/205314506-b3eb0dbb-7afa-4e6e-b548-5b10b431e175.png" width="50"></a> <a href="mailto:anastaisha.580@gmail.com"><img src="https://user-images.githubusercontent.com/111877511/205331899-bef448a7-0dbe-442a-a5f5-cbb19b8b227f.png" width="65"><a/> <a href="https://t.me/anasstaisshaa"><img src="https://user-images.githubusercontent.com/111877511/205330937-e1a1f294-6d7c-4ce8-9bb8-7073adba0841.png" width="50"></a> <a href="https://instagram.com/anasstaisshaa?igshid=YmMyMTA2M2Y="><img src="https://user-images.githubusercontent.com/111877511/205277062-e50e7806-5bf7-4cda-af38-c01f0a1b60b3.png" width="50"></a>
+<a href="https://www.linkedin.com/in/anastasiia-tkachuk-285620252/"><img src="https://user-images.githubusercontent.com/111877511/205314506-b3eb0dbb-7afa-4e6e-b548-5b10b431e175.png" width="50"></a> <a href="mailto:anastaisha.580@gmail.com"><img src="https://user-images.githubusercontent.com/111877511/205331899-bef448a7-0dbe-442a-a5f5-cbb19b8b227f.png" width="65"><a/> <a href="https://t.me/anasstaisshaa"><img src="https://user-images.githubusercontent.com/111877511/205330937-e1a1f294-6d7c-4ce8-9bb8-7073adba0841.png" width="50"></a> <a href="https://instagram.com/anasstaisshaa?igshid=YmMyMTA2M2Y="><img src="https://user-images.githubusercontent.com/111877511/205277062-e50e7806-5bf7-4cda-af38-c01f0a1b60b3.png" width="50"></a>
 </span>
 
 <h4> About my skills 👩🏻‍💻</h4>
