@@ -10,7 +10,7 @@
 
 <h4> About my skills 👩🏻‍💻</h4>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=anasstaisshaa"><img src="https://git.io/streak-stats"></a> <a href="https://github-readme-stats.vercel.app/api?username=anasstaisshaa"><img src="https://github.com/anasstaisshaa/github-readme-stats"></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasstaisshaa)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasstaisshaa)](https://github.com/anasstaisshaa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasstaisshaa)](https://github.com/anasstaisshaa/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=anasstaisshaa)](https://github.com/anasstaisshaa/github-profile-trophy) 
 
