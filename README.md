@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>.
 <h3 align="center">Backend developer 🌏</h3>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/111877511/205274112-f80e5f16-60ad-4522-9c1f-8aa194510ef8.png"height="350"/></h3>
 <h4>Programming languages 🖋</h4>
