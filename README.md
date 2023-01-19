@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>.
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="hello">. I'm Anastasiia Tkachuk.
 <h3 align="center">Backend developer 🌏</h3>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/111877511/207095430-6af9e8f2-151b-4f67-8205-bbe6dd9e7b41.png"height="350"/></h3>
 <h4>Programming languages 🖋</h4>
