@@ -5,6 +5,13 @@
 <h2>🖋 Programming languages</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
+  
+<h2> Database </h2>
+<p align="left">
+<img src="https://www.svgrepo.com/show/255832/sql.svg" width="40" height="40" alt="java"/>
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg"  width="40" height="40" alt="java"/>
+<h4> Also: JDBC </h4>
+    
 
 <h2>🌐 Links</h2>
 <p align="left">
