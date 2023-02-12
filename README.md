@@ -6,6 +6,9 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
   
+  <h2> Technologies </h2>
+<img src="https://www.svgrepo.com/show/354454/tomcat.svg" width="40" height="40" alt="java"/>
+  
 <h2> Database </h2>
 <p align="left">
 <img src="https://www.svgrepo.com/show/255832/sql.svg" width="40" height="40" alt="java"/>
