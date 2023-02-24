@@ -5,6 +5,7 @@
 <h2>🖋 Programming languages</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
+<img src="https://www.svgrepo.com/show/373650/groovy2.svg" width="40" height="40" alt="java"/>
   
 <h2> Technologies </h2>
 <p align="left">
