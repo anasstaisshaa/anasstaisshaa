@@ -2,22 +2,43 @@
 <h3 align="center">Backend developer 🌏</h3>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/111877511/207095430-6af9e8f2-151b-4f67-8205-bbe6dd9e7b41.png"height="350"/></h3>
 
-<h2>🖋 Programming languages</h2>
+<h2>🖋 Languages (programming, markup and other)</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>
 <img src="https://www.svgrepo.com/show/373650/groovy2.svg" width="40" height="40" alt="java"/>
+<br>
   
-<h2> Technologies </h2>
+<h2>🏭 Frameworks</h2>
+<p align="left">
+</p>
+<p> Also: JDBC, JUNIT</p>
+<br>
+  
+<h2>🛠 Tools </h2>
 <p align="left">
 <img src="https://www.svgrepo.com/show/354454/tomcat.svg" width="40" height="40" alt="java"/>
 <img src="https://www.svgrepo.com/show/354051/maven.svg" width="40" height="40" alt="java"/>
-  
-<h2> Database </h2>
-<p align="left">
 <img src="https://www.svgrepo.com/show/255832/sql.svg" width="40" height="40" alt="java"/>
 <img src="https://www.svgrepo.com/show/354200/postgresql.svg"  width="40" height="40" alt="java"/>
-<h4> Also: JDBC </h4>
-    
+</p>
+<br>
+  
+  
+<h2>📜 IDE</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="intelij"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" />
+</p>
+<br>
+  
+<h2>💾 OS</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="windows"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="macos"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="40" height="40" alt="unix"/>
+</p>
+<br>
 
 <h2>🌐 Links</h2>
 <p align="left">
@@ -31,3 +52,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasstaisshaa&theme=solarized_dark) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasstaisshaa)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasstaisshaa)](https://github.com/anasstaisshaa/github-readme-stats)
+  
