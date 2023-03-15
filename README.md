@@ -16,10 +16,10 @@
   
 <h2>🛠 Tools </h2>
 <p align="left">
-<img src="https://www.svgrepo.com/show/354454/tomcat.svg" width="40" height="40" alt="java"/>
-<img src="https://www.svgrepo.com/show/354051/maven.svg" width="40" height="40" alt="java"/>
-<img src="https://www.svgrepo.com/show/255832/sql.svg" width="40" height="40" alt="java"/>
-<img src="https://www.svgrepo.com/show/354200/postgresql.svg"  width="40" height="40" alt="java"/>
+<img src="https://www.svgrepo.com/show/354454/tomcat.svg" width="40" height="40" alt="tomcat"/>
+<img src="https://www.svgrepo.com/show/354051/maven.svg" width="40" height="40" alt="maven"/>
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg"  width="40" height="40" alt="postgresql"/>
+<img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg"  width="40" height="40" alt="gradle"/>
 </p>
 <br>
   
@@ -36,7 +36,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="windows"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="macos"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="40" height="40" alt="unix"/>
 </p>
 <br>
 
