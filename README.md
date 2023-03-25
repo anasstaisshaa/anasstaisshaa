@@ -48,7 +48,7 @@
 
 <h4> About my skills 👩🏻‍💻</h4>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasstaisshaa&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasstaisshaa&theme=solarized_dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasstaisshaa)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasstaisshaa)](https://github.com/anasstaisshaa/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasstaisshaa)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasstaisshaa)](https://github.com/anasstaisshaa/github-readme-stats) [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AnastasiiaTk&theme=dark)](https://github.com/AnastasiiaTk/leetcode-stats)
   
