@@ -11,7 +11,7 @@
 <h2>🏭 Frameworks</h2>
 <p align="left">
 </p>
-<p> Also: JDBC, JUNIT, MOCKITO</p>
+<p> Also: JDBC, JUnit, mockito, log4j</p>
 <br>
   
 <h2>🛠 Tools </h2>
