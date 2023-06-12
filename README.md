@@ -11,7 +11,8 @@
 <h2>🏭 Frameworks</h2>
 <p align="left">
 </p>
-<p> Also: JDBC, JUnit, mockito, log4j, hibernate</p>
+  <img src="https://www.svgrepo.com/show/376350/spring.svg" width="40" height="40" alt="java"/>
+<p> Also: JDBC, JUnit, mockito, log4j, Hibernate, OAuth2</p>
 <br>
   
 <h2>🛠 Tools </h2>
